@@ -24,6 +24,8 @@ The most critical AI detection issue for educators and students is the false pos
 ## Responding to Suspicious Authorship
 A realistic assessment of AI detection efforts, both human and computer-based, is that judging writing as AI or human in origin falls short of being absolute certainty. Traditional plagiarism involves finding exact matches, whereas AI detection is mostly based on writing style characteristics, as illustrated by the above review. Crucially, this evidence from AI writing style characteristics is a much weaker standard of evidence than exact matches (Chaka, 2023; Nolan, 2023).
 
+A simple starting point is to ask students if their work was based upon AI-generated text in an unthreatening manner. This may lead to admissions about AI use that grow into productive conversations about the ethical use of AI in writing. 
+
 
 
 
