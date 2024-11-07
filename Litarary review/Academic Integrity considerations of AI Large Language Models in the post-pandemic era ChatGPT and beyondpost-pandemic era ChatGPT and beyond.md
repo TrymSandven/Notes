@@ -27,4 +27,4 @@ tools means that a blanket ban of these tools at an institutional level is neith
 enforceable. Despite the potential threats to academic integrity presented in the paper, we believe
 that the future integration of LLMs and other AI supported digital tools into the classroom
 environment is highly likely, and therefore HEIs must consider the implications of this in future
-policy development.
+policy development. test
