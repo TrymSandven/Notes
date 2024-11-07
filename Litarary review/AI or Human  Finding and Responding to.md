@@ -21,4 +21,25 @@ A multitude of commercial AI detection technologies have been offered to educato
 
 The most critical AI detection issue for educators and students is the false positive rate: Authentic human work that is incorrectly flagged as AI text.  Mistakenly accusing studentsof academic integrity violations may result in student outrage and damaged faculty–student relationships. While detection technologies are recommended, it is impor- tant to understand that the results from these services are no panacea for the challenge raised by AI plagiarism. Detection technology feedback is only a beginning point for educators to use in their grading and judgments (Chechitelli, 2023).
 
-## Responding to Suspicious Au
+## Responding to Suspicious Authorship
+A realistic assessment of AI detection efforts, both human and computer-based, is that judging writing as AI or human in
+origin falls short of being absolute certainty.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
