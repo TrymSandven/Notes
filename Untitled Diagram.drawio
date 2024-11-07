@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2024-11-07T13:25:47.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.4.6" etag="HjrRLAlAOKARh16DTn50" type="github">
+<mxfile host="app.diagrams.net" modified="2024-11-07T14:02:08.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" etag="3_eyWBLgPXQJTJZ2dB39" version="24.4.6" type="github">
   <diagram name="Page-1" id="VxLwf4v1zkmJ6qf0Dn4M">
-    <mxGraphModel>
+    <mxGraphModel dx="1509" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4WuiA_KlseMhbCijNbi_-1" value="&lt;div&gt;Records identified through searching for the topic &quot;LLM + &lt;span&gt;&lt;span&gt;&lt;span&gt;Plagiarism&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&quot; &lt;/div&gt;(n=18)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="134" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4WuiA_KlseMhbCijNbi_-2" value="&lt;div&gt;Records identified through searching for the topic &quot;G&lt;span&gt;&lt;span&gt;&lt;span&gt;enerative AI&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; + &lt;span&gt;&lt;span&gt;&lt;span&gt;Plagiarism&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&quot;&lt;/div&gt;(n=50)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="40" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4WuiA_KlseMhbCijNbi_-3" value="&lt;div&gt;Records identified through searching for the topic &quot;&lt;span&gt;&lt;span&gt;&lt;span&gt;Large Language Models&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; + &lt;span&gt;&lt;span&gt;&lt;span&gt;Plagiarism&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&quot;&lt;/div&gt;(n=43)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="534" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4WuiA_KlseMhbCijNbi_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4WuiA_KlseMhbCijNbi_-4" target="4WuiA_KlseMhbCijNbi_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WuiA_KlseMhbCijNbi_-4" value="&lt;div&gt;Records after duplicate removed&lt;/div&gt;&lt;div&gt;(n=95)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4WuiA_KlseMhbCijNbi_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4WuiA_KlseMhbCijNbi_-5" target="4WuiA_KlseMhbCijNbi_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WuiA_KlseMhbCijNbi_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4WuiA_KlseMhbCijNbi_-5" target="4WuiA_KlseMhbCijNbi_-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WuiA_KlseMhbCijNbi_-5" value="&lt;div&gt;Records screened&lt;/div&gt;&lt;div&gt;(n=95)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4WuiA_KlseMhbCijNbi_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4WuiA_KlseMhbCijNbi_-6" target="4WuiA_KlseMhbCijNbi_-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WuiA_KlseMhbCijNbi_-6" value="&lt;div&gt;Full-text articles asessed&lt;/div&gt;&lt;div&gt;(n=22)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="524.5" width="360" height="75.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4WuiA_KlseMhbCijNbi_-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.104;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4WuiA_KlseMhbCijNbi_-1" target="4WuiA_KlseMhbCijNbi_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WuiA_KlseMhbCijNbi_-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.479;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4WuiA_KlseMhbCijNbi_-2" target="4WuiA_KlseMhbCijNbi_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WuiA_KlseMhbCijNbi_-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.874;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4WuiA_KlseMhbCijNbi_-3" target="4WuiA_KlseMhbCijNbi_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WuiA_KlseMhbCijNbi_-12" value="&lt;div&gt;&lt;b&gt;Records excluded&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(n=73)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Not relavent to topic (n=70)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;No access to article (n=3)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="667" y="335" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4WuiA_KlseMhbCijNbi_-15" value="&lt;div&gt;Studies included in the synthesis&lt;br&gt;&lt;/div&gt;&lt;div&gt;(n=22)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="660" width="360" height="75.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
