@@ -5,7 +5,7 @@ Criteria Table
 
 | Paper Title | Authors | Year | Country | Model | Detective Tool |
 |---|---|---|---|---|---|
-| Academic Integrity considerations of AI Large Language Models in the post-pandemic era: ChatGPT and beyond | [@guleriaChatGPTEthicalConcerns2023] |  |  |  |
+| Academic Integrity considerations of AI Large Language Models in the post-pandemic era: ChatGPT and beyond |  |  |  |  |
 | AI or Human? Finding and Responding to Artificial Intelligence in Student Work |  |  |  |  |
 | Alarm Bells or Just Smoke: An Evaluation of the Potential for Cheating with ChatGPT on Criminal Justice Student Papers |  |  |  |  |
 | ChatGPT and a new academic reality: Artificial Intelligence-written research papers and the ethics of the large language models in scholarly publishing |  |  |  |  |
