@@ -8,3 +8,8 @@ Writetn by Timothy A Engle and Jospeh L. Nedelec
 The Flesch-Kincaid Grade Level is a validated formula used to assess the reading comprehension difficulty of a given text (Flesch, 1948; Hoke, 1999; Dufty et al., 2006; Hensel, 2014; Roberts et al., 2016). The Flesch-Kincaid formula was originally developed for use within the United States Navy for the purposes of ensuring that training manuals would be easy for personnel to read (Flesch, 1948). The Flesch-Kincaid Grade Level formula is a variation of the original formula proposed by Flesch in 1948 which is designed for scores to reflect the number of years of education an individual has had since age 6 (Flesch, 1948; Hensel, 2014). A score of six for example, would rep-
 resent that to comprehend the given text, someone would need six years of education. The full formula is relatively straightforward to calculate: $Flesch \ Kincaid \ Grade \ Level= {Total \ number \ of \ words \over Total \ number \ of \ sentences} + {Total \ number \ of \ syllebals \over Total \ number \ of \ words} -15.5$
 
+## Methods
+The methods section has a good way of talking about what prompts has been used
+
+## Result
+Turnitin gave a score of about 30% on all the texts. 
