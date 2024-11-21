@@ -1,5 +1,6 @@
 AI or Human? Finding and Responding to
 Artificial Intelligence in Student Work
+
 ========================
 Written by Gary d. Fisk
 
@@ -18,3 +19,29 @@ The AI style has been variously described as bland, lifeless, or robotic in char
 The superiority of detection technologies over human judgment is illustrated by Gao et al. (2023), who compared human vs. detection technology performance on the classification of human vs. synthetic writing in scientific abstracts. The human participants were scientists (the study authors) making judgments under blind conditions. The AI detection technology cor- rectly classified most of the synthetic abstracts as being AI-generated (d’ = 2.20) 1 and had a low false positive rate (2%). In contrast, human judges had lower sensitivity (d’ = 1.55) 2 and a much higher false positive rate (14%).
 
 A multitude of commercial AI detection technologies have been offered to educators over the last 2 years. Recommending which of these technologies is the best detector is challenging given the rapid pace of change and variations in the evaluation methodology. The top detection technologies at this time, in no particular order, may be offered by Turnitin, Originality.ai, and CopyLeaks (Walters, 2023; see also Akram, 2023; Elkhatat et al., 2023; Lee, 2023; Weber-Wulff et al., 2023). 
+
+The most critical AI detection issue for educators and students is the false positive rate: Authentic human work that is incorrectly flagged as AI text.  Mistakenly accusing studentsof academic integrity violations may result in student outrage and damaged faculty–student relationships. While detection technologies are recommended, it is impor- tant to understand that the results from these services are no panacea for the challenge raised by AI plagiarism. Detection technology feedback is only a beginning point for educators to use in their grading and judgments (Chechitelli, 2023).
+
+## Responding to Suspicious Authorship
+A realistic assessment of AI detection efforts, both human and computer-based, is that judging writing as AI or human in origin falls short of being absolute certainty. Traditional plagiarism involves finding exact matches, whereas AI detection is mostly based on writing style characteristics, as illustrated by the above review. Crucially, this evidence from AI writing style characteristics is a much weaker standard of evidence than exact matches (Chaka, 2023; Nolan, 2023).
+
+A simple starting point is to ask students if their work was based upon AI-generated text in an unthreatening manner. This may lead to admissions about AI use that grow into productive conversations about the ethical use of AI in writing. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

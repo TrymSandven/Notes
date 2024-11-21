@@ -21,10 +21,4 @@ Organisations have either released, or have announced the imminent release of to
 detect AI generated text. These tools include GPTZero (https://gptzero.me/) and Crossplag AI detect (https://crossplag.com/ai-content-detector/) and do show promise in being able to detect the use of AI generated text. However, further study is required to identify the accuracy of these tools
 
 ## Conclusion
-The situation, coupled with the identified difficulties in determining whether we can even consider
-the use of such tools to be a breach of academic integrity, and the potential benefits of LLM based
-tools means that a blanket ban of these tools at an institutional level is neither feasible, nor
-enforceable. Despite the potential threats to academic integrity presented in the paper, we believe
-that the future integration of LLMs and other AI supported digital tools into the classroom
-environment is highly likely, and therefore HEIs must consider the implications of this in future
-policy development. test
+The situation, coupled with the identified difficulties in determining whether we can even consider the use of such tools to be a breach of academic integrity, and the potential benefits of LLM based tools means that a blanket ban of these tools at an institutional level is neither feasible, nor enforceable. Despite the potential threats to academic integrity presented in the paper, we believe that the future integration of LLMs and other AI supported digital tools into the classroom environment is highly likely, and therefore HEIs must consider the implications of this in future policy development. 
